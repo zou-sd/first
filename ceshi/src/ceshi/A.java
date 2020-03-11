@@ -6,5 +6,6 @@ public class A {
 		//今天是2月3日，明天是2月4
 		//最后一天晚上
 		//然而，疫情还在继续。。。
+		System.out.println("Hello,IDEA");
 	}
 }
